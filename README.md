@@ -1,10 +1,11 @@
 # Student Performance Factors Dataset
 
 ## Group information
-|ID|Name|
-|-|-|
+|**ID**  |**Name**           |
+|--------|-------------------|
+|21120345|Nguyễn Văn Trí     |
 |21120441|Dương Huỳnh Anh Duy|
-|21120450|Trương Thế Hiển|
+|21120450|Trương Thế Hiển    |
 
 ---
 
